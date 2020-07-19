@@ -1,0 +1,27 @@
+*, body {
+  background-color: #181A1B !important;
+  font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+  color: white;
+}
+
+h3:focus {
+  border-color: red;
+  outline: none;
+}
+
+.flash-card:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.flash-card img {
+  display: block;
+}
+
+.timer {
+  width: 100px;
+  padding: 36px 0;
+}
