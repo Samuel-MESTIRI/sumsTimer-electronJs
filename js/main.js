@@ -1,4 +1,4 @@
-const time = 20
+const time = 300
 
 window.addEventListener('load', function () {
 
